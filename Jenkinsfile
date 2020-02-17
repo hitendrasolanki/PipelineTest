@@ -33,6 +33,7 @@ node
     /* ./HelloWorld.bat""" */
      
     echo "Hi! This is Multibranch Test-V1"
+	    echo "Hi! This is Multibranch Test-V2"
  
     }
 }
