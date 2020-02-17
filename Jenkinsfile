@@ -30,7 +30,9 @@ node
       }
       
     /* sh """chmod +x HelloWorld.bat */
-    ./HelloWorld.bat"""
+    /* ./HelloWorld.bat""" */
+     
+    echo "Hi! This is Multibranch Test-V1"
  
     }
 }
