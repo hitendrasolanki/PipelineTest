@@ -31,7 +31,7 @@ node
       
    /* sh """chmod +x HelloWorld.sh 
     ./HelloWorld.sh""" */
-
+ ./HelloWorld.sh""" */
     echo "Hi! This is Multibranch Test-V1"
     }
 }
